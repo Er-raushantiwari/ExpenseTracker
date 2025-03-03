@@ -9,7 +9,7 @@ import java.util.Properties;
 public class JdbcHelper {
 	static Connection conn = null;
 	static String username = "root";
-	static String password = "ghost$fuck$love";
+	static String password = "tiger";
 	static String url = "jdbc:mysql://localhost:3306/expence_tracker";
 	static String driver = "com.mysql.cj.jdbc.Driver";
 
