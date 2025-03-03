@@ -7,5 +7,6 @@ public class FetchCategoryExpense {
 //			+ "inner join expense e on c.id=e.category_id) as x group by id";
 //	public static ResultSet fetchExpense() {
 //		
+//		
 //	}
 }
